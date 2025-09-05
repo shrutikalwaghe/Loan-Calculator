@@ -16,3 +16,5 @@ A simple Loan Calculator app to compute EMI (Equated Monthly Installment), total
 - JavaScript
 Screenshot :
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4b27b15b-1ce0-494b-a53d-282434ccf7d6" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bbd73d66-cc40-4d56-85f9-c10726dac7f5" />
+
